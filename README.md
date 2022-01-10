@@ -1,9 +1,5 @@
 <h1 align="center">Baysiean search of hyperparamter in K nearest neighbor algorithm</h1>
-<h2 align="center">
-  
-  
-
-  
+<h2 align="center">  
   
   ## Goal
   
@@ -25,6 +21,6 @@ I implemented Baysiean optimization algorithm with gaussian model to sample the 
 - In Deep learning model: filter size, feature number, and depth of the model 
 - In Graph convolution model: graph cut cutoff (in pooling stage)
   
-### Not enough background knowledge in the data
+### Not enough background knowledge in data
  - Let BO to explore the unknown relationship first to provide some useful insight.
 

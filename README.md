@@ -1,4 +1,4 @@
-<h1 align="center">Baysiean search of hyperparamter in K nearest neighbor algorithm</h1>
+<h1 align="center">Baysiean search of hyperparameters in K nearest neighbor algorithm</h1>
 <h2 align="center">  
   
   ## Goal

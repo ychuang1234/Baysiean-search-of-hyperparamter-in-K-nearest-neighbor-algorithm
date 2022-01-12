@@ -2,7 +2,7 @@
 <h2 align="center">  
   
   ## Goal 
-  Utilizing Baysiean optimization to effeciently sample possible combinations of hyperparameters to make learning models perform better with suitable hyperparamters.  
+  Utilizing Baysiean optimization to effeciently sample possible combinations of hyperparameters to make learning models perform better with suitable hyperparameters.  
   
   ## Introduction
   

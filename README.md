@@ -1,6 +1,9 @@
 <h1 align="left">Baysiean search of hyperparameters in K nearest neighbor algorithm</h1>
 <h2 align="center">  
   
+  ## Goal 
+  Utilizing Baysiean optimization to effeciently sample possible combinations of hyperparameters to make learning models perform better with suitable hyperparamters.  
+  
   ## Introduction
   
 Learning models with suitable hypermeters is critical for the performance of models. However, we usually select hyperparameters manually and empirically. In order to sufficiently choose the combination of hypermeters (maybe continous or discrete), which deepens the exploration for the relationship between hyperparameters and overall perforamance, one of the possible way is to utilize the gaussian process model to explore the "dark side" (not well known region, a.k.a high covariance part) in the relationship and sampling some of the combination which benefits our understanding the most.

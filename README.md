@@ -6,7 +6,7 @@
   
   ## Introduction
   
-Learning models with suitable hyperparameters is critical for the performance of models. However, we usually select hyperparameters manually and empirically. In order to sufficiently choose the combination of hyperparameters (maybe continous or discrete), which deepens the exploration for the relationship between hyperparameters and overall perforamance, one of the possible way is to utilize the gaussian process model to explore the "dark side" (not well known region, a.k.a high covariance part) in the relationship and sample combination which benefits our understanding the most.
+Learning models with suitable hyperparameters is critical for the performance of models. However, we usually select hyperparameters manually and empirically. In order to efficiently choose the combination of hyperparameters (maybe continous or discrete), which deepens the exploration for the relationship between hyperparameters and overall perforamance, one of the possible way is to utilize the gaussian process model to explore the "dark side" (not well known region, a.k.a high covariance part) in the relationship and sample combination which benefits our understanding the most.
 
   
   
